@@ -1,4 +1,6 @@
 whale
 =====
 
-wfl's repository
+this is my first project
+
+nice!
